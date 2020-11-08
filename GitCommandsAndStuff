@@ -1,0 +1,8 @@
+I'll write git commands in here as I learn/use them
+git branch
+git branch switch
+git branch -a
+git commit -m "comment"
+git add .
+git push origin
+git pull origin
