@@ -1,0 +1,5 @@
+as of now this program should:
+use arcade drive using the joysticks (right for speed left for turning)
+activate the transporter and intake (both use A to spin in and B to spin out and are toggeld on and off)
+turn the robot arm motors with one motor using the start and back buttons to spin in different directions and the other using the right and left bumpers
+the navX programs may cause errors since they are not in the robot file, remove them if they do
